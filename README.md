@@ -1,4 +1,4 @@
-`bayes_mapvar`: Bayesian Maximum A Posteriori/Variance Estimation
+`bayes_mapvar`: Bayesian MAP/Variance Estimation
 =================================================================
 
 Installation
