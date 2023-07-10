@@ -1,0 +1,10 @@
+pylint==2.12.2
+pytest==7.1.1
+scipy==1.11.1
+numpy==1.21.6
+pandas==1.4.2
+protobuf==3.20.0
+tensorflow==2.8.0
+tensorflow-io-gcs-filesystem==0.24.0
+tensorflow-probability==0.16.0
+jupyterlab==4.0.2
