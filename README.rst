@@ -1,7 +1,9 @@
 .. image:: docs/title.png
   :alt: bayes_mapvar logo
-`bayes_mapvar`: Bayesian MAP / Variance Estimation
-=================================================================
+|PyPI Version| |License|
+Bayesian MAP / Variance Estimation
+==================================================
+
 
 Installation
 ------------
@@ -14,3 +16,7 @@ Testing
 -------
 To run unit tests, run this from the project root directory:
 > `. bin/run_unit_tests.sh`
+
+.. |PyPI Version| image:: https://img.shields.io/pypi/v/bayes_mapvar.svg
+   :target: https://pypi.org/project/bayes_mapvar/
+.. |License| image:: https://img.shields.io/pypi/l/bayes_mapvar.svg
