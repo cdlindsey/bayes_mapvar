@@ -1,4 +1,4 @@
-.. image:: docs/bayes_mapvar_title.png
+.. image:: docs/title.png
   :alt: bayes_mapvar logo
 `bayes_mapvar`: Bayesian MAP / Variance Estimation
 =================================================================
