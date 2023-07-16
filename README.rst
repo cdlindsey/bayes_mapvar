@@ -5,7 +5,7 @@
 Bayesian MAP / Variance Estimation
 ==================================
 **bayes_mapvar** is a Python package that provides tools for Maximum A Posterior (MAP) estimation and posterior variance estimation.
-TensorFlow Probability and SciPy are leveraged to allow fast and efficient estimation for Bayesian models.
+TensorFlow Probability and SciPy are leveraged to allow fast and efficient estimation for Bayesian models without using resampling methods..
 
 Installation
 ------------
